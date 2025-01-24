@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zh-CN/笔记/🤖 AI 人工智能/Neuro/AI VTuber.md",
+                "file": "zh-CN/笔记/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI VTuber"
+              "title": "index"
             }
           }
         ]
@@ -260,12 +260,30 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian42-brat:BRAT": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "54819aae3450e1a7",
+  "active": "b5dfc4e6c8287ee4",
   "lastOpenFiles": [
+    "vite.config.ts.timestamp-1737697173740-245dd498d95ba.mjs",
+    "zh-CN/笔记/vite-package-version.md",
+    "zh-CN/笔记/tanstack-table.md",
+    "zh-CN/笔记/tailscale-crash.md",
+    "zh-CN/笔记/steam-SIP.md",
+    "zh-CN/笔记/mac-chrome-localnet.md",
+    "zh-CN/笔记/lxc-privileged.md",
+    "zh-CN/笔记/images/CleanShot 2024-12-17 at 20.49.01@2x.png",
+    "zh-CN/笔记/images",
+    "zh-CN/笔记/configure-bash.md",
+    "zh-CN/笔记/EChart.md",
+    "zh-CN/笔记/AVL-tamplate.md",
+    "zh-CN/笔记/zsh-utils.md",
+    "zh-CN/笔记/yubikey-agent.md",
+    "zh-CN/笔记/windows-wsl-hang.md",
+    "zh-CN/笔记/windows-nature-scrolling.md",
+    "zh-CN/笔记/windows-fonts.md",
+    "zh-CN/笔记/vue-declare.md",
+    "zh-CN/笔记/aaron-bond.better-comments-adpyk.txt",
     "zh-CN/笔记/🤖 AI 人工智能/Neuro/AI VTuber.md",
     "zh-CN/笔记/🤖 AI 人工智能/Neuro/Archive.zip",
     "笔记/🧩 开源贡献/Kubernetes/CNCF Traval Funding.md",
@@ -278,15 +296,12 @@
     "pnpm-lock.yaml.2653060370",
     "node_modules/@types",
     "node_modules/@nolebase",
-    "node_modules/@netlify",
-    "node_modules/@iconify-json",
     "笔记/🛠️ 开发/JS Framework Benchmark 命令速查.md",
     "笔记/🛠️ 开发/Another Custom Directive API in Vue and Vapor.md",
     "笔记/🛠️ 开发/因为 dayjs 不能轻松导入全部的 i18n 语言而换用了 date-fns.md",
     "笔记/🛠️ 开发/用兼容性更好，体积更小的 Rive 渲染和播放 Lottie 动画.md",
     "笔记/📦 收集箱/🐙 GitHub 项目/maplibre/index.md",
     "编目 Catalog/文章/理解什么是 CRDT.md",
-    "笔记/🪄 Vtuber/在 macOS 上不同的 VTuber 直播方案.md",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122507.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231212122502.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231209163759.png",
@@ -296,22 +311,6 @@
     "笔记/🪄 Vtuber/assets/Pasted image 20231208233938.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231208233927.png",
     "笔记/🪄 Vtuber/assets/Pasted image 20231208233632.png",
-    "笔记/🧱 基础设施/🛜 OpenWRT/assets/Pasted image 20240520003337.png",
-    "笔记/🧱 基础设施/🛜 OpenWRT/从 openclash 迁移到 sing-box.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/开发一个 Kubernetes Controller.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/将 TrueNAS 共享存储连接到 K8s 集群.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/kubectl 速查表.md",
-    "笔记/🧱 基础设施/🚢 Kubernetes/Pod 错误排查之.md",
-    "笔记/🧱 基础设施/云上集群的 GPU.md",
-    "笔记/🧮 数学/空洞的想法.md",
-    "笔记/🧩 开源贡献/Kubernetes/开始之前.md",
-    "笔记/🤖 AI 人工智能/领域/音频/配置和运行 ChatTTS.md",
-    "笔记/🤖 AI 人工智能/领域/音频/在 macOS 上配置 GPT-SoVITS-WebUI.md",
-    "笔记/🤖 AI 人工智能/通过阅读 dlrover 源码学习训练时的自动冗灾恢复和 checkpoint 同步加速.md",
-    "笔记/🤖 AI 人工智能/论文和源码解析：S-LoRA - Serving Thousands of Concurrent LoRA Adapters.md",
-    "笔记/🤖 AI 人工智能/用 FastEdit 微调大模型.md",
-    "笔记/🤖 AI 人工智能/机器学习生态研究报告.md",
-    "笔记/🤖 AI 人工智能/提示工程 Prompt Engineering/最佳实践.md",
     "未命名.canvas"
   ]
 }
