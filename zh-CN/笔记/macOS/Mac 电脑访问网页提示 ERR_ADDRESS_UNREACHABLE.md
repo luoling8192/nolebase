@@ -7,6 +7,8 @@ tags:
     - 转载
 ---
 
+# Mac 电脑访问网页提示 ERR_ADDRESS_UNREACHABLE
+
 ## 问题描述
 
 可以访问互联网，Chrome 浏览器访问同网段的其他设备提示 ERR_ADDRESS_UNREACHABLE

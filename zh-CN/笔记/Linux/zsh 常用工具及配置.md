@@ -5,6 +5,8 @@ tags:
     - zsh
 ---
 
+# zsh 常用工具及配置
+
 ## zim:fw
 
 比 oh-my-zsh 快，并且自带了诸如 auto-completion、syntax highlighting 等插件。

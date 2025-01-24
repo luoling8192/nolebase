@@ -6,6 +6,8 @@ tags:
   - Powershell
 ---
 
+# Windows 自然滚动 Powershell 脚本
+
 ## 起因
 
 经常用 macOS 的用户都知道，鼠标的滚动方向和触控板的滚动方向是一致的，即为自然滚动，但是在 Windows 上，没有一个很好的方法可以快速调节滚动方向到自然滚动。
@@ -35,7 +37,7 @@ $devices = Get-ChildItem -Path $regPath | Where-Object { $_.PSChildName -like "V
 
 foreach ($device in $devices) {
     $deviceParamsPath = "$($device.PSPath)\**\Device Parameters"
-    
+
     # 检查 Device Parameters 是否存在
     if (Test-Path $deviceParamsPath) {
         # 设置 FlipFlopWheel 值为 1

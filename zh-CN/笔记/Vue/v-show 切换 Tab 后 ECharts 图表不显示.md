@@ -8,6 +8,8 @@ tags:
     - 踩坑
 ---
 
+# v-show 切换 Tab 后 ECharts 图表不显示
+
 ## 解决方法
 
 当 EChart 提示 height 为 0 时，加入 `:autoresize="true"` 即可解决。

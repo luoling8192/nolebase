@@ -7,6 +7,8 @@ tags:
     - 踩坑
 ---
 
+# 关于在 Vue + TSX 中使用 onClick 导致 ESLint 报错的问题
+
 ## 解决方法
 
 创建一个 vue.d.ts 的文件，内容如下：

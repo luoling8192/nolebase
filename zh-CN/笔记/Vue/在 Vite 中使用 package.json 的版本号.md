@@ -5,6 +5,8 @@ tags:
   - Vite
 ---
 
+# 在 Vite 中使用 package.json 的版本号
+
 ## 方法
 
 可以在 constant.ts 中直接 `import package.json` 并使用其中的版本号：

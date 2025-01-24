@@ -6,6 +6,8 @@ tags:
     - Homebrew
 ---
 
+# macOS 新系统配置脚本
+
 ## 介绍
 最近在玩黑苹果，因为系统不太稳定，就总需要重装，而且我不太喜欢用时间机器恢复数据。
 
@@ -36,7 +38,7 @@ killall Dock
 # Finder
 defaults write com.apple.finder "ShowPathbar" -bool true
 defaults write com.apple.finder "_FXSortFoldersFirst" -bool true
-defaults write com.apple.finder "_FXSortFoldersFirstOnDesktop" -bool true 
+defaults write com.apple.finder "_FXSortFoldersFirstOnDesktop" -bool true
 killall Finder
 
 # Trackpad

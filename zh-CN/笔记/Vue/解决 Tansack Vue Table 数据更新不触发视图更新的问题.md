@@ -7,6 +7,8 @@ tags:
     - 踩坑
 ---
 
+# 解决 Tansack Vue Table 数据更新不触发视图更新的问题
+
 ## 原因解释
 
 由于 Tansack Table 的监听是针对引用的监听，所以 `data.push()` 等操作不会触发视图更新。
